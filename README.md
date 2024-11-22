@@ -59,7 +59,7 @@ This project was built as part of the **100 Days of Code** challenge under the g
 
 ## Screenshots
 
-Snake game/9d50a764-0003-4949-b870-8dfaeadf2139.jpg
+![Snake Game Screenshot](Snake%20game/9d50a764-0003-4949-b870-8dfaeadf2139.jpg)
 
 ## Author
 This project was developed by **[Uhashini N](https://www.linkedin.com/in/uhashini-n-3b144a291/)**, under the mentorship of **[Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)** as part of the **100 Days of Code** challenge.
