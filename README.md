@@ -23,7 +23,7 @@ This project was built as part of the **100 Days of Code** challenge under the g
 2. **Navigate into the project directory**:
 
     ```bash
-    $ cd snake-game
+    $ cd Snake-game-GUI-
     ```
 
 3. **Install Python**: This project is built using Python 3.11. Make sure Python is installed on your system.
