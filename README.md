@@ -17,7 +17,7 @@ This project was built as part of the **100 Days of Code** challenge under the g
 1. **Clone the repository**:
 
     ```bash
-    $ git clone https://github.com/shelbyblanton/snake-game.git
+    $ git clone https://github.com/Uhashini/Snake-game-GUI-.git
     ```
 
 2. **Navigate into the project directory**:
